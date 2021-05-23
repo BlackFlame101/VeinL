@@ -27,7 +27,7 @@ export default class Navbar extends React.Component {
 						<i className="fab fa-twitter-square"></i>
 						<i className="fab fa-youtube"></i>
 					</div>
-					<span className="credits" >Developed by Anass Sekram</span>
+					<span className="credits" >Developed by Badr Eddine Benouari And Anass Sekram</span>
 				</div>
 				<div className="burger-btn"><i className="fas fa-bars"></i></div>
 			</div>
