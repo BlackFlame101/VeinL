@@ -10,7 +10,7 @@
     "install-client": "cd client && npm install",
     "heroku-postbuild": "npm run install-client && npm run build"
   },
-  "author": "anass sekram",
+  "author": "anass badr",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
